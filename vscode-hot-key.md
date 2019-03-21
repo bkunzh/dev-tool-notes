@@ -1,4 +1,5 @@
 - 删除当前行 ctrl+shift+k
+- 剪切(当前行) ctrl+x
 - 选中一个单词 ctrl+d
 - 选中一行 ctrl+i
 - 替换 ctrl+h
