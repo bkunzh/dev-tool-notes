@@ -8,5 +8,5 @@
 - 在网页上水平滚动	按住 Shift 键并滚动鼠标滚轮
 - 开启或关闭全屏模式	F11
 - 在最大化模式和窗口模式间切换 	双击标签栏的空白区域
-- 帮助 F1
+- 帮助 F1，见<https://support.google.com/chrome/?p=help&ctx=keyboard#topic=7438008>
 
