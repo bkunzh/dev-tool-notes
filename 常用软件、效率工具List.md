@@ -31,6 +31,7 @@
     - 百度截图翻译插件
     - octotree，显示Github项目目录树
     - Enhanced Github，可以显示仓库大小、文件大小
+    - alexa，可以看到网站的世界排名
 
 ## 个人电脑用
 1. chrome插件
