@@ -21,6 +21,8 @@
 16. MySQL
 17. Navicat
 
+### 任务栏快捷方式如下
+![](imgs/taskbar-shortcuts.jpg)
 
 
 ## 效率工具
