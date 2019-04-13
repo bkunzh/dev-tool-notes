@@ -13,4 +13,4 @@
 
 >[参考](https://www.jianshu.com/p/f27f452ceb27)
 
-
+2. youdao translator:翻译，可以改一下快捷方式，比如`ctrl+t r`
