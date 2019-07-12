@@ -1,7 +1,7 @@
 ## 说明
 常用软件、效率工具清单。安装包在本地`E:\必装软件`目录下
 
-## 安装包List
+## 常用软件List
 
 1. 思维导图-XMind
 2. vscode
@@ -20,6 +20,7 @@
 15. MobaXterm（Linux终端）
 16. MySQL
 17. Navicat
+18. [postman](postman.md)
 
 ### 任务栏快捷方式如下
 ![](imgs/taskbar-shortcuts.jpg)
