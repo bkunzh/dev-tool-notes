@@ -6,7 +6,7 @@
 1. 思维导图-XMind
 2. vscode
 3. notepad++
-4. 360截图
+4. 截图
 5. chrome
 6. 有道云笔记
 7. Git
@@ -17,10 +17,12 @@
 12. Everything
 13. GitHub Desktop
 14. 番茄土豆，可以使工作更专注、高效，劳逸结合。
-15. MobaXterm（Linux终端）
+15. xshell、MobaXterm（Linux终端）
 16. MySQL
 17. Navicat
 18. [postman](postman.md)
+19. OneNote 记零散的备忘信息很方便
+20. Beyond Compare
 
 ### 任务栏快捷方式如下
 ![](imgs/taskbar-shortcuts.jpg)
