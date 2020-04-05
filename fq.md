@@ -1,0 +1,2 @@
+1. 使用油泼猴的插件获取Trojan账号
+    - <https://greasyfork.org/zh-CN/scripts/399057-%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB-%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E5%85%8D%E8%B4%B9%E7%BF%BB%E5%A2%99vpn%E8%8A%82%E7%82%B9-%E5%8F%AF%E8%A7%82%E7%9C%8B4k-youtube%E8%A7%86%E9%A2%91-%E4%B8%8Agoogle%E6%9F%A5%E8%B5%84%E6%96%99-ss-ssr%E8%B4%A6%E5%8F%B7-shadowsocks-shadowsocksr-v2ray-trojan-%E8%B4%A6%E5%8F%B7%E5%88%86%E4%BA%AB>
