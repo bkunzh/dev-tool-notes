@@ -4,3 +4,9 @@
 - 腾讯文档也可以多人编辑，但没有google doc强大，不能选择评论、是否接受修改的功能，而且只能登陆才能查看。
 
 2. chrome远程桌面，可以远程控制win\linux等。也可以用teamviewer远程访问。
+3. chrome插件：脚本管理工具 tampermonkey  **油泼猴** 
+ - 脚本源
+    - https://www.tampermonkey.net/scripts.php?version=4.9&ext=dhdg#Q300
+    - <https://greasyfork.org/zh-CN/scripts>
+    - 也可以自定义脚本，对指定网页执行指定脚本，很强大
+
