@@ -15,6 +15,7 @@
 10. MySQL、Navicat
 11. [postman](postman.md)
 12. Beyond Compare
+13. 远程控制软件：TightVNC很好用，连接另一个windows很好用，QQ远程太不稳定，teamviewer不免费。
 
 
 ### 任务栏快捷方式如下
