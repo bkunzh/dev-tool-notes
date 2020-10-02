@@ -16,6 +16,7 @@
 11. [postman](postman.md)
 12. Beyond Compare
 13. 远程控制软件：TightVNC很好用，连接另一个windows很好用，QQ远程太不稳定，teamviewer不免费。
+14. gvim，windows下打开大文件不会崩溃
 
 
 ### 任务栏快捷方式如下
